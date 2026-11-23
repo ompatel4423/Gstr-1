@@ -1,0 +1,6 @@
+Invoice No,Invoice Date,Buyer GSTIN,Buyer Name,POS,RCM,Doc Type,Tax Rate,Taxable Value,HSN Code,UQC,Quantity,Is Cancelled,Orig Inv No,Orig Inv Date
+1760,06-10-2026,33AMIPS8401R1ZF,Abirami Tex,33,N,Regular,5,10695,620821,OTH,49,N,,
+1761,07-10-2026,,Cash Customer,33,N,Regular,5,2500,620821,OTH,10,N,,
+1762,08-10-2026,,Kerala Buyer,32,N,Regular,12,120000,620821,OTH,500,N,,
+CN-01,10-10-2026,33AMIPS8401R1ZF,Abirami Tex,33,N,CRN,5,1000,620821,OTH,5,N,1760,06-10-2026
+1763,11-10-2026,,Void Bill,33,N,Regular,5,0,620821,OTH,0,Y,,

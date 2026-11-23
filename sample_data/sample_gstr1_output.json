@@ -1,0 +1,65 @@
+{
+  "gstin": "33AXEPN4338D1ZR",
+  "fp": "102026",
+  "b2b": [
+    {
+      "ctin": "33AMIPS8401R1ZF",
+      "inv": [
+        {
+          "inum": "1760",
+          "idt": "06-10-2026",
+          "val": 11229.76,
+          "pos": "33",
+          "rchrg": "N",
+          "inv_typ": "R",
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 5,
+                "txval": 10695,
+                "camt": 267.38,
+                "samt": 267.38,
+                "csamt": 0
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hsn": {
+    "hsn_b2b": [
+      {
+        "num": 1,
+        "hsn_sc": "620821",
+        "uqc": "OTH",
+        "qty": 49,
+        "val": 11229.76,
+        "txval": 10695,
+        "rt": 5,
+        "iamt": 0,
+        "camt": 267.38,
+        "samt": 267.38,
+        "csamt": 0
+      }
+    ]
+  },
+  "doc_issue": {
+    "doc_det": [
+      {
+        "doc_num": 1,
+        "docs": [
+          {
+            "num": 1,
+            "from": "1760",
+            "to": "1760",
+            "totnum": 1,
+            "cancel": 0,
+            "net_issue": 1
+          }
+        ]
+      }
+    ]
+  }
+}
